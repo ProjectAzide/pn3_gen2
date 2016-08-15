@@ -1,0 +1,2 @@
+# hardware
+component specifications
