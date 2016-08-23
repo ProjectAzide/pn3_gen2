@@ -1,2 +1,2 @@
 # hardware
-component specifications
+Things made of atoms
