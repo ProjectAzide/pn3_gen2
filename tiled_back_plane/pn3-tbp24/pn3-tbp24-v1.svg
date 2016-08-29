@@ -46,30 +46,52 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="Your Design">
 
-<rect style="fill:none;stroke:#000000;stroke-width:0.01" x="-18" y="-18" width="380" height="380" />
+<g inkscape:groupmode="layer" inkscape:label="text">
+    <text xml:space="preserve" style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:start;fill:#000000;stroke-width:1px"
+x="0" y="350" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
+x="0" y="350">pn3-tbp24-v1   2016-08-28a   N=N=N</tspan></text>
 
-<g>
-    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m      0,0 0,340.24" />
-    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m  56.64,0 0,340.24" />
-    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 113.28,0 0,340.24" />
-    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 169.92,0 0,340.24" />
-    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 226.56,0 0,340.24" />
-    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 283.20,0 0,340.24" />
-    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 339.84,0 0,340.24" />
+    <text xml:space="preserve" style="font-size:10px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';fill:#000000;stroke-width:1px;writing-mode:lr"
+x="-340" y="352" sodipodi:linespacing="100%" transform="matrix(0,-1,1,0,0,0)"><tspan sodipodi:role="line"
+x="-340" y="352">http://ProjectAzide.github.io/</tspan></text>
 
-    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m      0,0 339.84,0" />
-    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m  0,85.06 339.84,0" />
-    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 0,170.12 339.84,0" />
-    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 0,255.18 339.84,0" />
-    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 0,340.24 339.84,0" />
+    <text xml:space="preserve" style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
+x="28" y="-3" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
+x="28" y="-3">A</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
+x="85" y="-3" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
+x="85" y="-3">B</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
+x="142" y="-3" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
+x="142" y="-3">C</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
+x="198" y="-3" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
+x="198" y="-3">D</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
+x="255" y="-3" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
+x="255" y="-3">E</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
+x="312" y="-3" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
+x="312" y="-3">F</tspan></text>
+
+    <text xml:space="preserve" style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
+x="-5" y="43" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
+x="-5" y="43">1</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
+x="-5" y="127" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
+x="-5" y="127">2</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
+x="-5" y="213" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
+x="-5" y="213">3</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
+x="-5" y="297" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
+x="-5" y="297">4</tspan></text>
 </g>
 
-<g>
+
+
+<g inkscape:groupmode="layer" inkscape:label="node detail">
     <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 339.84,1.62   1.62,-1.62 -1.62,-1.62 -1.62,1.62 z" />
     <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 339.84,86.68  1.62,-1.62 -1.62,-1.62 -1.62,1.62 z" />
     <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 339.84,171.74 1.62,-1.62 -1.62,-1.62 -1.62,1.62 z" />
@@ -82,63 +104,6 @@
     <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 169.92,341.86 1.62,-1.62 -1.62,-1.62 -1.62,1.62 z" />
     <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 226.56,341.86 1.62,-1.62 -1.62,-1.62 -1.62,1.62 z" />
     <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 283.20,341.86 1.62,-1.62 -1.62,-1.62 -1.62,1.62 z" />
-</g>
-
-    <text xml:space="preserve"
-       style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:start;fill:#000000;stroke-width:1px"
-x="0" y="350" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
-x="0" y="350">pn3-tbp24-v1   2016-08-28a   N=N=N</tspan></text>
-
-    <text xml:space="preserve"
-       style="font-size:10px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';fill:#000000;stroke-width:1px;writing-mode:lr"
-x="-340" y="352" sodipodi:linespacing="100%" transform="matrix(0,-1,1,0,0,0)"><tspan sodipodi:role="line"
-x="-340" y="352">http://ProjectAzide.github.io/</tspan></text>
-
-<g>
-    <text xml:space="preserve"
-       style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
-x="28" y="-3" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
-x="28" y="-3">A</tspan></text>
-    <text xml:space="preserve"
-       style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
-x="85" y="-3" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
-x="85" y="-3">B</tspan></text>
-    <text xml:space="preserve"
-       style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
-x="142" y="-3" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
-x="142" y="-3">C</tspan></text>
-    <text xml:space="preserve"
-       style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
-x="198" y="-3" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
-x="198" y="-3">D</tspan></text>
-    <text xml:space="preserve"
-       style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
-x="255" y="-3" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
-x="255" y="-3">E</tspan></text>
-    <text xml:space="preserve"
-       style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
-x="312" y="-3" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
-x="312" y="-3">F</tspan></text>
-</g>
-
-<g>
-    <text xml:space="preserve"
-       style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
-x="-5" y="43" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
-x="-5" y="43">1</tspan></text>
-    <text xml:space="preserve"
-       style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
-x="-5" y="127" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
-x="-5" y="127">2</tspan></text>
-    <text xml:space="preserve"
-       style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
-x="-5" y="213" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
-x="-5" y="213">3</tspan></text>
-    <text xml:space="preserve"
-       style="font-size:8.46666px;font-family:OCRB;-inkscape-font-specification:'OCRB, Normal';text-anchor:middle;fill:#000000;stroke-width:1px"
-x="-5" y="297" sodipodi:linespacing="100%"><tspan sodipodi:role="line"
-x="-5" y="297">4</tspan></text>
-</g>
 
     <g>
       <rect style="fill:none;stroke:#000000;stroke-width:0.01" width="30" height="65" x="20" y="3" />
@@ -359,6 +324,26 @@ x="-5" y="297">4</tspan></text>
       <rect style="fill:none;stroke:#000000;stroke-width:0.01" x="3" y="82.06" width="40" height="3" />
       <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="M 0,1.62 1.62,0 0,-1.62 -1.62,0 Z" />
     </g>
+</g>
 
-  </g>
+<g inkscape:groupmode="layer" inkscape:label="node outlines">
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m      0,0 0,340.24" />
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m  56.64,0 0,340.24" />
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 113.28,0 0,340.24" />
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 169.92,0 0,340.24" />
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 226.56,0 0,340.24" />
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 283.20,0 0,340.24" />
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 339.84,0 0,340.24" />
+
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m      0,0 339.84,0" />
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m  0,85.06 339.84,0" />
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 0,170.12 339.84,0" />
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 0,255.18 339.84,0" />
+  <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.01" d="m 0,340.24 339.84,0" />
+</g>
+
+<g inkscape:groupmode="layer" inkscape:label="tbp outline">
+  <rect style="fill:none;stroke:#000000;stroke-width:0.01" x="-18" y="-18" width="380" height="380" />
+</g>
+
 </svg>
