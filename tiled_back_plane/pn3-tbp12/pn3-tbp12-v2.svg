@@ -120,23 +120,19 @@
   fill="none" stroke="#f00" stroke-width="0.01" >
   <title>Label text</title>
 
-  <text   x="0" y="350" >pn3-tbp12-v2</text>
-  <text x="100" y="350" >2016-11-26f</text>
-  <text x="200" y="350" >N=N=N</text>
+  <text   x="0" y="272" >pn3-tbp12-v2     2016-11-26f</text>
+  <text x="198" y="272" >N=N=N</text>
 
-  <text x="-340" y="352" transform="rotate(-90)" >http://ProjectAzide.github.io/</text>
+  <text x="-220" y="242" transform="rotate(-90)" >http://ProjectAzide.github.io/</text>
 
-  <text  x="25" y="-3" >A</text>
-  <text  x="82" y="-3" >B</text>
-  <text x="139" y="-3" >C</text>
-  <text x="195" y="-3" >D</text>
-  <text x="252" y="-3" >E</text>
-  <text x="309" y="-3" >F</text>
+  <text  x="13" y="-3" >A</text>
+  <text  x="70" y="-3" >B</text>
+  <text x="126" y="-3" >C</text>
+  <text x="183" y="-3" >D</text>
 
-  <text x="-8"  y="43" >1</text>
-  <text x="-8" y="128" >2</text>
-  <text x="-8" y="213" >3</text>
-  <text x="-8" y="298" >4</text>
+  <text x="-8"  y="23" >1</text>
+  <text x="-8" y="108" >2</text>
+  <text x="-8" y="193" >3</text>
 </g>
 
 <g id="node_array" inkscape:groupmode="layer" inkscape:label="node_array">
@@ -147,60 +143,41 @@
   <use xlink:href="#pn3_node" x="56.64" y="0" />
   <use xlink:href="#pn3_node" x="113.28" y="0" />
   <use xlink:href="#pn3_node" x="169.92" y="0" />
-  <use xlink:href="#pn3_node" x="226.56" y="0" />
-  <use xlink:href="#pn3_node" x="283.20" y="0" />
-  <use xlink:href="#lcd_alignment_hole" x="339.84" y="0" />
+  <use xlink:href="#lcd_alignment_hole" x="226.56" y="0" />
 
   <use xlink:href="#pn3_node" x="0" y="85.06" />
   <use xlink:href="#pn3_node" x="56.64" y="85.06" />
   <use xlink:href="#pn3_node" x="113.28" y="85.06" />
   <use xlink:href="#pn3_node" x="169.92" y="85.06" />
-  <use xlink:href="#pn3_node" x="226.56" y="85.06" />
-  <use xlink:href="#pn3_node" x="283.20" y="85.06" />
-  <use xlink:href="#lcd_alignment_hole" x="339.84" y="85.06" />
+  <use xlink:href="#lcd_alignment_hole" x="226.56" y="85.06" />
 
   <use xlink:href="#pn3_node" x="0" y="170.12" />
   <use xlink:href="#pn3_node" x="56.64" y="170.12" />
   <use xlink:href="#pn3_node" x="113.28" y="170.12" />
   <use xlink:href="#pn3_node" x="169.92" y="170.12" />
-  <use xlink:href="#pn3_node" x="226.56" y="170.12" />
-  <use xlink:href="#pn3_node" x="283.20" y="170.12" />
-  <use xlink:href="#lcd_alignment_hole" x="339.84" y="170.12" />
+  <use xlink:href="#lcd_alignment_hole" x="226.56" y="170.12" />
 
-  <use xlink:href="#pn3_node" x="0" y="255.18" />
-  <use xlink:href="#pn3_node" x="56.64" y="255.18" />
-  <use xlink:href="#pn3_node" x="113.28" y="255.18" />
-  <use xlink:href="#pn3_node" x="169.92" y="255.18" />
-  <use xlink:href="#pn3_node" x="226.56" y="255.18" />
-  <use xlink:href="#pn3_node" x="283.20" y="255.18" />
-  <use xlink:href="#lcd_alignment_hole" x="339.84" y="255.18" />
-
-  <use xlink:href="#lcd_alignment_hole" x="0" y="340.24" />
-  <use xlink:href="#lcd_alignment_hole" x="56.64" y="340.24" />
-  <use xlink:href="#lcd_alignment_hole" x="113.28" y="340.24" />
-  <use xlink:href="#lcd_alignment_hole" x="169.92" y="340.24" />
-  <use xlink:href="#lcd_alignment_hole" x="226.56" y="340.24" />
-  <use xlink:href="#lcd_alignment_hole" x="283.20" y="340.24" />
-  <use xlink:href="#lcd_alignment_hole" x="339.84" y="340.24" />
+  <use xlink:href="#lcd_alignment_hole" x="0" y="255.18" />
+  <use xlink:href="#lcd_alignment_hole" x="56.64" y="255.18" />
+  <use xlink:href="#lcd_alignment_hole" x="113.28" y="255.18" />
+  <use xlink:href="#lcd_alignment_hole" x="169.92" y="255.18" />
+  <use xlink:href="#lcd_alignment_hole" x="226.56" y="255.18" />
 </g>
 
 <g id="node_boundaries" inkscape:groupmode="layer" inkscape:label="node_boundaries"
   fill="none" stroke="#f00" stroke-width="0.01" >
   <title>boundaries between the PN3 nodes.  DO NOT CUT.</title>
   <desc>TODO</desc>
-  <path d="m     0,0 v340.24" />
-  <path d="m 56.64,0 v340.24" />
-  <path d="m113.28,0 v340.24" />
-  <path d="m169.92,0 v340.24" />
-  <path d="m226.56,0 v340.24" />
-  <path d="m283.20,0 v340.24" />
-  <path d="m339.84,0 v340.24" />
+  <path d="m     0,0 v255.18" />
+  <path d="m 56.64,0 v255.18" />
+  <path d="m113.28,0 v255.18" />
+  <path d="m169.92,0 v255.18" />
+  <path d="m226.56,0 v255.18" />
 
-  <path d="m     0,0 h339.84" />
-  <path d="m 0,85.06 h339.84" />
-  <path d="m0,170.12 h339.84" />
-  <path d="m0,255.18 h339.84" />
-  <path d="m0,340.24 h339.84" />
+  <path d="m     0,0 h226.56" />
+  <path d="m 0,85.06 h226.56" />
+  <path d="m0,170.12 h226.56" />
+  <path d="m0,255.18 h226.56" />
 </g>
 
 <g id="panel_outline" inkscape:groupmode="layer" inkscape:label="panel_outline"
