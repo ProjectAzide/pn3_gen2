@@ -35,7 +35,7 @@
   inkscape:window-y="-20"
   inkscape:window-maximized="0" />
 
-<!-- Definitions --------------------------------------------------------- -->
+<!-- Definitions ========================================================= -->
 
 <defs id="defs100">
 
@@ -111,7 +111,7 @@
 
 </defs>
 
-<!-- Instances ----------------------------------------------------------- -->
+<!-- Instances =========================================================== -->
 
 <g id="version_label" inkscape:groupmode="layer" inkscape:label="version_label"
   font-size="8" font-family="OCRB" fill="none" stroke="#f00" stroke-width="0.01" >
