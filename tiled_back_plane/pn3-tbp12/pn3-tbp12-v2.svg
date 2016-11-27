@@ -8,9 +8,9 @@
   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" >
 
-<title>pn3-tbp24-v2.svg</title>
+<title>pn3-tbp12-v2.svg</title>
 <desc>
-  Tiled Backplane (TBP) for 24 (6x4) Project Azide Generation 2 (pn3_gen2) nodes, version 2.
+  Tiled Backplane (TBP) for 12 (4x3) Project Azide Generation 2 (pn3_gen2) nodes, version 2.
   Each node contains a Raspberry Pi Zero and ER-TFT035-6 LCD module.
   http://ProjectAzide.github.io/
   Copyright 2016 Michael Weiblen http://mew.cx/
@@ -112,7 +112,7 @@
 
 <!-- Instances =========================================================== -->
 
-<g id="tbp24" inkscape:groupmode="layer" inkscape:label="tbp24"
+<g id="tbp12" inkscape:groupmode="layer" inkscape:label="tbp12"
   transform="translate(0 0)" >
 
 <g id="label_text" inkscape:groupmode="layer" inkscape:label="label_text"
@@ -120,8 +120,8 @@
   fill="none" stroke="#f00" stroke-width="0.01" >
   <title>Label text</title>
 
-  <text   x="0" y="350" >pn3-tbp24-v2</text>
-  <text x="100" y="350" >2016-11-26e</text>
+  <text   x="0" y="350" >pn3-tbp12-v2</text>
+  <text x="100" y="350" >2016-11-26f</text>
   <text x="200" y="350" >N=N=N</text>
 
   <text x="-340" y="352" transform="rotate(-90)" >http://ProjectAzide.github.io/</text>
