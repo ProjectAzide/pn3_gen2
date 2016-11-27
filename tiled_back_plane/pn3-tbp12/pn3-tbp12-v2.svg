@@ -184,7 +184,31 @@
   fill="none" stroke="#00f" stroke-width="0.01" >
   <title>panel outline</title>
   <desc>panel outline and mounting holes</desc>
-  <rect x="-18" y="-18" width="380" height="380" />
+
+  <rect x="-18" y="-18" width="270" height="300" />
+
+  <use x="-5" y="42.53" xlink:href="#m2.5_hole" />
+  <use x="-5" y="127.59" xlink:href="#m2.5_hole" />
+  <use x="-5" y="212.65" xlink:href="#m2.5_hole" />
+
+  <use x="230.56" y="42.53" xlink:href="#m2.5_hole" />
+  <use x="230.56" y="127.59" xlink:href="#m2.5_hole" />
+  <use x="230.56" y="212.65" xlink:href="#m2.5_hole" />
+
+  <use x="28.32"  y="-5" xlink:href="#m2.5_hole" />
+  <use x="84.96"  y="-5" xlink:href="#m2.5_hole" />
+  <use x="141.60" y="-5" xlink:href="#m2.5_hole" />
+  <use x="198.24" y="-5" xlink:href="#m2.5_hole" />
+
+  <use x="28.32"  y="260.18" xlink:href="#m2.5_hole" />
+  <use x="84.96"  y="260.18" xlink:href="#m2.5_hole" />
+  <use x="141.60" y="260.18" xlink:href="#m2.5_hole" />
+  <use x="198.24" y="260.18" xlink:href="#m2.5_hole" />
+
+  <use x="-5" y="-5" xlink:href="#m2.5_hole" />
+  <use x="-5"  y="260.18" xlink:href="#m2.5_hole" />
+  <use x="230.56" y="-5" xlink:href="#m2.5_hole" />
+  <use x="230.56" y="260.18" xlink:href="#m2.5_hole" />
 </g>
 
 </g>
