@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <svg version="1.1" id="svg100"
   width="384mm" height="384mm"
-  viewBox="-20 -20 384 384"
+  viewBox="0 0 384 384"
   xmlns="http://www.w3.org/2000/svg"
   xmlns:svg="http://www.w3.org/2000/svg"
   xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -39,7 +39,7 @@
 <defs id="defs100" >
 
   <g id="lcd_alignment_hole" fill="none" stroke="#00f" stroke-width="0.01" >
-    <path d="m0,1.62 1.62,-1.62 -1.62,-1.62 -1.62,1.62 z" />
+    <circle cx="0" cy="0" r="1.62" />
   </g>
 
   <g id="m2.5_hole" fill="none" stroke="#00f" stroke-width="0.01" >
@@ -75,17 +75,18 @@
 <!-- Instances =========================================================== -->
 
 <g id="tbp12" inkscape:groupmode="layer" inkscape:label="tbp12"
-  transform="translate(0 0)" >
+  transform="translate(20 20)" >
 
 <g id="label_text" inkscape:groupmode="layer" inkscape:label="label_text"
-  font-family="OCRA" font-size="8"
+  font-family="OCRB" font-size="5"
   fill="none" stroke="#f00" stroke-width="0.01" >
   <title>Label text</title>
 
-  <text   x="0" y="272" >pn3-tbp12-v2     2016-11-26f</text>
-  <text x="198" y="272" >N=N=N</text>
+  <text   x="0" y="280" >pn3-tbp12-v2</text>
+  <text  x="99" y="280" >2016-11-29a</text>
+  <text x="198" y="280" >N=N=N</text>
 
-  <text x="-220" y="242" transform="rotate(-90)" >http://ProjectAzide.github.io/</text>
+  <text x="0" y="270" >http://ProjectAzide.github.io/</text>
 
   <text  x="13" y="-3" >A</text>
   <text  x="70" y="-3" >B</text>
@@ -127,7 +128,7 @@
 </g>
 
 <g id="node_boundaries" inkscape:groupmode="layer" inkscape:label="node_boundaries"
-  fill="none" stroke="#f00" stroke-width="0.01" >
+  fill="none" stroke="#0f0" stroke-width="0.01" >
   <title>boundaries between the PN3 nodes.  DO NOT CUT.</title>
   <desc>TODO</desc>
   <path d="m     0,0 v255.18" />
@@ -147,7 +148,7 @@
   <title>panel outline</title>
   <desc>panel outline and mounting holes</desc>
 
-  <rect x="-18" y="-18" width="270" height="300" />
+  <rect x="-13" y="-18" width="254.00" height="304.80" />
 
   <use x="-5" y="42.53" xlink:href="#m2.5_hole" />
   <use x="-5" y="127.59" xlink:href="#m2.5_hole" />
