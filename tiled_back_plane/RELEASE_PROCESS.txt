@@ -1,0 +1,50 @@
+
+CMD="/c/Program\ Files/Inkscape/inkscape.exe"
+
+FILE="pn3-tbp24-v1.svg"
+
+$CMD -d 600 -y 1.0 -e $FILE.png $FILE
+
+#############################################################################
+
+inkscape -z -e test.png -w 1024 -h 1024 test.svg
+
+-z, --without-gui
+
+-e FILENAME, --export-png=FILENAME
+-w, --export-width=WIDTH
+-h, --export-height=HEIGHT
+-l, --export-plain-svg=FILENAME
+-d DPI, --export-dpi=DPI
+-t, --export-use-hints
+-i ID, --export-id=ID
+
+
+inkscape pn3-tbp24-v1.svg -e foo.png -d 600 -y 1.0
+
+
+Export from InkscapeSVG to plainSVG:
+
+-T, --export-text-to-path
+-l, --export-plain-svg=FILENAME
+
+inkscape pn3-tbp24-v1.svg -z -T -l foo.svg
+
+#############################################################################
+
+#! /bin/bash -x
+
+# adjust ~/.config/inkscape/preferences.xml ...
+# <group id="startmode" outline="1" />
+# <group id="svgoutput" numericprecision="5" minimumexponent="-4" inlineattrs="1" />
+
+SRCFILE="pn3-tbp12-v2.svg"
+
+inkscape -z --vacuum-defs -f $SRCFILE -l $SRCFILE.plain.svg
+inkscape -z --vacuum-defs -f $SRCFILE -l $SRCFILE.plainpath.svg --export-text-to-path
+
+# Increase stroke-width so lines are visible:
+sed 's/stroke-width="0.01"/stroke-width="0.20"/' < $SRCFILE > foo.svg
+inkscape -z -d 100 -f foo.svg -e $SRCFILE.png
+inkscape -z -f foo.svg -A $SRCFILE.pdf
+
