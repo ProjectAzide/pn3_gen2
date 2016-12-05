@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <svg version="1.1" id="svg100"
-  width="384mm" height="384mm"
-  viewBox="0 0 384 384"
+  width="260mm" height="310mm"
+  viewBox="0 0 260 310"
   xmlns="http://www.w3.org/2000/svg"
   xmlns:svg="http://www.w3.org/2000/svg"
   xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -38,14 +38,14 @@
 
 <defs id="defs100" >
 
-  <g id="lcd_alignment_hole" fill="none" stroke="#00f" stroke-width="0.01" >
-    <title>hole for lcd panel alignment pins</title>
-    <circle r="1.15" />
-  </g>
-
   <g id="m2.5_hole" fill="none" stroke="#00f" stroke-width="0.01" >
     <title>hole for M2.5 screw</title>
     <circle r="1.3" />
+  </g>
+
+  <g id="lcd_alignment_hole" fill="none" stroke="#00f" stroke-width="0.01" >
+    <title>hole for lcd panel alignment pins</title>
+    <circle r="1.15" />
   </g>
 
   <g id="lcd_cable_slot" fill="none" stroke="#00f" stroke-width="0.01" >
@@ -79,15 +79,15 @@
   transform="translate(13,13)" >
 
 <g id="label_text" inkscape:groupmode="layer" inkscape:label="label_text"
-  font-family="OCRB" font-size="1.50mm"
+  font-family="OCRB" font-size="1.00mm"
   fill="none" stroke="#f00" stroke-width="0.01" >
   <title>Label text</title>
 
-  <text id="txt_url"  x="0" y="270" >http://ProjectAzide.github.io/</text>
-  <text id="txt_logo" x="0" y="277" >N=N=N</text>
+  <text id="txt_url"  x="0" y="269" >http://ProjectAzide.github.io/</text>
+  <text id="txt_logo" x="0" y="275" >N=N=N</text>
 
-  <text id="txt_name" x="226.56" y="270" text-anchor="end" >pn3-tbp12-v2.svg</text>
-  <text id="txt_date" x="226.56" y="277" text-anchor="end" >2016-12-03a</text>
+  <text id="txt_name" x="226.56" y="269" text-anchor="end" >pn3-tbp12-v2.svg</text>
+  <text id="txt_date" x="226.56" y="275" text-anchor="end" >2016-12-04a</text>
 
   <text id="txt_colA" x="15.00"  y="-1" text-anchor="middle" >A</text>
   <text id="txt_colB" x="71.64"  y="-1" text-anchor="middle" >B</text>
@@ -148,7 +148,7 @@
   <title>panel outline</title>
   <desc>panel outline and mounting holes</desc>
 
-  <rect x="-13" y="-13" width="254.00" height="304.80" />
+  <rect x="-13" y="-13" width="254.00" height="304.80" rx="2" />
 
   <use x="-5"     y="42.53"  xlink:href="#m2.5_hole" />
   <use x="-5"     y="127.59" xlink:href="#m2.5_hole" />
@@ -167,9 +167,9 @@
   <use x="198.24" y="260.18" xlink:href="#m2.5_hole" />
 
   <use x="-5"     y="-5"     xlink:href="#m2.5_hole" />
-  <use x="-5"     y="260.18" xlink:href="#m2.5_hole" />
-  <use x="231.56" y="-5"     xlink:href="#m2.5_hole" />
-  <use x="231.56" y="260.18" xlink:href="#m2.5_hole" />
+  <use x="-5"     y="283.80" xlink:href="#m2.5_hole" />
+  <use x="233.00" y="-5"     xlink:href="#m2.5_hole" />
+  <use x="233.00" y="283.80" xlink:href="#m2.5_hole" />
 </g>
 
 </g>
