@@ -87,7 +87,7 @@
   <text id="txt_logo" x="0" y="275" >N=N=N</text>
 
   <text id="txt_name" x="226.56" y="269" text-anchor="end" >pn3-tbp12-v2.svg</text>
-  <text id="txt_date" x="226.56" y="275" text-anchor="end" >2016-12-04a</text>
+  <text id="txt_date" x="226.56" y="275" text-anchor="end" >2016-12-09a</text>
 
   <text id="txt_colA" x="15.00"  y="-1" text-anchor="middle" >A</text>
   <text id="txt_colB" x="71.64"  y="-1" text-anchor="middle" >B</text>
@@ -127,10 +127,10 @@
   <use x="226.56" y="255.18" xlink:href="#lcd_alignment_hole" />
 </g>
 
-<g id="node_boundaries" inkscape:groupmode="layer" inkscape:label="node_boundaries"
+<g id="NFM_node_boundaries" inkscape:groupmode="layer" inkscape:label="NFM_node_boundaries"
   fill="none" stroke="#080" stroke-width="0.01" >
   <title>boundaries between the PN3 nodes</title>
-  <desc>DO NOT LASERCUT.  For reference only, not for manufacturing.</desc>
+  <desc>NOT FOR MANUFACTURING.  For reference only.</desc>
   <path d="m      0,0 v255.18" />
   <path d="m  56.64,0 v255.18" />
   <path d="m 113.28,0 v255.18" />
