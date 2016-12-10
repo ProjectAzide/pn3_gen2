@@ -1,10 +1,27 @@
+RELEASE_PROCESS.txt
 
-CMD="/c/Program\ Files/Inkscape/inkscape.exe"
+Create .svg files for manufacturing by Ponoko:
+1. Copy master file to manufacturing file:
+	cp pn3-cp12-v2.svg pn3-cp12-v2a.svg
+	cp pn3-tbp12-v2.svg pn3-tbp12-v2a.svg
+2. Edit the manufacturing file:
+	adjust name and timestamp
+	delete NFM (Not For Manufacturing) layers.
+3. Load into Inkscape.
+4. Convert text with "Object to Path".
+5. Save as Plain SVG.
+6. Commit to Git.
 
-FILE="pn3-tbp24-v1.svg"
+Create supplemental .pdf documentation file:
+1. Copy manufacturing file to a temporary file.
+2. Edit temp file: convert stroke-width from "0.01" to "0.20"
+3. Load into Inkscape.
+4. Save as PDF.
+5. Commit to Git.
 
-$CMD -d 600 -y 1.0 -e $FILE.png $FILE
 
+#############################################################################
+# Appendix: Notes for reference
 #############################################################################
 
 inkscape -z -e test.png -w 1024 -h 1024 test.svg
@@ -19,26 +36,21 @@ inkscape -z -e test.png -w 1024 -h 1024 test.svg
 -t, --export-use-hints
 -i ID, --export-id=ID
 
-
 inkscape pn3-tbp24-v1.svg -e foo.png -d 600 -y 1.0
 
-
 Export from InkscapeSVG to plainSVG:
-
 -T, --export-text-to-path
 -l, --export-plain-svg=FILENAME
 
 inkscape pn3-tbp24-v1.svg -z -T -l foo.svg
 
-#############################################################################
+inkscape -d 600 -y 1.0 -e $FILE.png $FILE
 
-#! /bin/bash -x
+-----------------------------------------------------------------------------
 
 # adjust ~/.config/inkscape/preferences.xml ...
 # <group id="startmode" outline="1" />
 # <group id="svgoutput" numericprecision="5" minimumexponent="-4" inlineattrs="1" />
-
-SRCFILE="pn3-tbp12-v2.svg"
 
 inkscape -z --vacuum-defs -f $SRCFILE -l $SRCFILE.plain.svg
 inkscape -z --vacuum-defs -f $SRCFILE -l $SRCFILE.plainpath.svg --export-text-to-path
