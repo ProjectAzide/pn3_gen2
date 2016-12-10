@@ -8,7 +8,7 @@
   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" >
 
-<title>pn3-tbp12-v2.svg</title>
+<title>pn3-tbp12-v2a.svg</title>
 <desc>
   Tiled Backplane (TBP) for 12 (4x3) Project Azide Generation 2 (pn3_gen2) nodes, version 2.
   Each node contains a Raspberry Pi Zero, ER-TFT035-6 LCD module, and PN3 interface board.
@@ -86,8 +86,8 @@
   <text id="txt_url"  x="0" y="269" >http://ProjectAzide.github.io/</text>
   <text id="txt_logo" x="0" y="275" >N=N=N</text>
 
-  <text id="txt_name" x="226.56" y="269" text-anchor="end" >pn3-tbp12-v2.svg</text>
-  <text id="txt_date" x="226.56" y="275" text-anchor="end" >2016-12-09a</text>
+  <text id="txt_name" x="226.56" y="269" text-anchor="end" >pn3-tbp12-v2a.svg</text>
+  <text id="txt_date" x="226.56" y="275" text-anchor="end" >2016-12-09</text>
 
   <text id="txt_colA" x="15.00"  y="-1" text-anchor="middle" >A</text>
   <text id="txt_colB" x="71.64"  y="-1" text-anchor="middle" >B</text>
@@ -125,22 +125,6 @@
   <use x="113.28" y="255.18" xlink:href="#lcd_alignment_hole" />
   <use x="169.92" y="255.18" xlink:href="#lcd_alignment_hole" />
   <use x="226.56" y="255.18" xlink:href="#lcd_alignment_hole" />
-</g>
-
-<g id="NFM_node_boundaries" inkscape:groupmode="layer" inkscape:label="NFM_node_boundaries"
-  fill="none" stroke="#080" stroke-width="0.01" >
-  <title>boundaries between the PN3 nodes</title>
-  <desc>NOT FOR MANUFACTURING.  For reference only.</desc>
-  <path d="m      0,0 v255.18" />
-  <path d="m  56.64,0 v255.18" />
-  <path d="m 113.28,0 v255.18" />
-  <path d="m 169.92,0 v255.18" />
-  <path d="m 226.56,0 v255.18" />
-
-  <path d="m      0,0 h226.56" />
-  <path d="m  0,85.06 h226.56" />
-  <path d="m 0,170.12 h226.56" />
-  <path d="m 0,255.18 h226.56" />
 </g>
 
 <g id="panel_outline" inkscape:groupmode="layer" inkscape:label="panel_outline"
