@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg version="1.1" id="svg100"
+  width="260mm" height="310mm"
+  viewBox="0 0 260 310"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" >
+
+<title>pn3-cp12-v2.svg</title>
+<desc>
+  Cover Plate (CP) for 12 (4x3) Project Azide Generation 2 (pn3_gen2) nodes, version 2.
+  Each node contains a Raspberry Pi Zero, ER-TFT035-6 LCD module, and PN3 interface board.
+  http://ProjectAzide.github.io/
+  Copyright 2016 Michael Weiblen http://mew.cx/
+  Keywords: ProjectAzide plenoptic display PN3 N=N=N
+</desc>
+
+<sodipodi:namedview
+  pagecolor="#fff"
+  bordercolor="#da0"
+  borderopacity="1"
+  showgrid="false"
+  inkscape:pageopacity="1.0"
+  inkscape:pageshadow="2"
+  inkscape:zoom="1"
+  inkscape:cx="700"
+  inkscape:cy="950"
+  inkscape:document-units="mm"
+  inkscape:window-width="1650"
+  inkscape:window-height="1050"
+  inkscape:window-x="70"
+  inkscape:window-y="-20"
+  inkscape:window-maximized="0" />
+
+<!-- Definitions ========================================================= -->
+
+<defs id="defs100" >
+
+  <g id="m2.5_hole" fill="none" stroke="#00f" stroke-width="0.01" >
+    <title>hole for M2.5 screw</title>
+    <circle r="1.3" />
+  </g>
+
+</defs>
+
+<!-- Instances =========================================================== -->
+
+<g id="cp12" inkscape:groupmode="layer" inkscape:label="cp12"
+  transform="translate(13,13)" >
+
+<g id="label_text" inkscape:groupmode="layer" inkscape:label="label_text"
+  font-family="OCRB" font-size="1.00mm"
+  fill="none" stroke="#f00" stroke-width="0.01" >
+  <title>Label text</title>
+
+  <text id="txt_url"  x="0" y="269" >http://ProjectAzide.github.io/</text>
+  <text id="txt_logo" x="0" y="275" >N=N=N</text>
+
+  <text id="txt_name" x="226.56" y="269" text-anchor="end" >pn3-cp12-v2.svg</text>
+  <text id="txt_date" x="226.56" y="275" text-anchor="end" >2016-12-09a</text>
+</g>
+
+<g id="NFM_node_boundaries" inkscape:groupmode="layer" inkscape:label="NFM_node_boundaries"
+  fill="none" stroke="#080" stroke-width="0.01" >
+  <title>boundaries between the PN3 nodes</title>
+  <desc>NOT FOR MANUFACTURING.  For reference only.</desc>
+  <path d="m      0,0 v255.18" />
+  <path d="m  56.64,0 v255.18" />
+  <path d="m 113.28,0 v255.18" />
+  <path d="m 169.92,0 v255.18" />
+  <path d="m 226.56,0 v255.18" />
+
+  <path d="m      0,0 h226.56" />
+  <path d="m  0,85.06 h226.56" />
+  <path d="m 0,170.12 h226.56" />
+  <path d="m 0,255.18 h226.56" />
+</g>
+
+<g id="panel_outline" inkscape:groupmode="layer" inkscape:label="panel_outline"
+  fill="none" stroke="#00f" stroke-width="0.01" >
+  <title>panel outline</title>
+  <desc>panel outline and mounting holes</desc>
+
+  <rect x="-13" y="-13" width="254.00" height="304.80" rx="2" />
+
+  <use x="-5"     y="42.53"  xlink:href="#m2.5_hole" />
+  <use x="-5"     y="127.59" xlink:href="#m2.5_hole" />
+  <use x="-5"     y="212.65" xlink:href="#m2.5_hole" />
+  <use x="231.56" y="42.53"  xlink:href="#m2.5_hole" />
+  <use x="231.56" y="127.59" xlink:href="#m2.5_hole" />
+  <use x="231.56" y="212.65" xlink:href="#m2.5_hole" />
+
+  <use x="28.32"  y="-5"     xlink:href="#m2.5_hole" />
+  <use x="84.96"  y="-5"     xlink:href="#m2.5_hole" />
+  <use x="141.60" y="-5"     xlink:href="#m2.5_hole" />
+  <use x="198.24" y="-5"     xlink:href="#m2.5_hole" />
+  <use x="28.32"  y="260.18" xlink:href="#m2.5_hole" />
+  <use x="84.96"  y="260.18" xlink:href="#m2.5_hole" />
+  <use x="141.60" y="260.18" xlink:href="#m2.5_hole" />
+  <use x="198.24" y="260.18" xlink:href="#m2.5_hole" />
+
+  <use x="-5"     y="-5"     xlink:href="#m2.5_hole" />
+  <use x="-5"     y="283.80" xlink:href="#m2.5_hole" />
+  <use x="233.00" y="-5"     xlink:href="#m2.5_hole" />
+  <use x="233.00" y="283.80" xlink:href="#m2.5_hole" />
+</g>
+
+</g>
+
+</svg>
